@@ -1,11 +1,11 @@
 # Site settings
-author: sarah
-title: 
+author: Sarah Condon
+title: Learning How to Code with No Experience
 header-img: img/home-bg.png
 email: s.j.condon01@gmail.com
-copyright_name: sarah
+copyright_name: Sarah Condon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  It is never to late switch careers
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sjcondon

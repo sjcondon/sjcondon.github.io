@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why did I want to learn how to code?"
-date:       2019-11-01 21:08:42 +0000
+date:       2019-11-01 17:08:42 -0400
 permalink:  why_did_i_want_to_learn_how_to_code
 ---
 

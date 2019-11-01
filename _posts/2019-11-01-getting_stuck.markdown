@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Getting Stuck"
-date:       2019-11-01 21:14:00 +0000
+date:       2019-11-01 17:14:01 -0400
 permalink:  getting_stuck
 ---
 

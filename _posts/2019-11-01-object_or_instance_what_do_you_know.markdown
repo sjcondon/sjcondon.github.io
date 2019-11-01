@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Object or Instance? What do you know"
-date:       2019-11-01 21:21:37 +0000
+date:       2019-11-01 17:21:38 -0400
 permalink:  object_or_instance_what_do_you_know
 ---
 

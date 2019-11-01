@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Scraping Project > The Challenges"
-date:       2019-11-01 22:05:26 +0000
+date:       2019-11-01 18:05:26 -0400
 permalink:  cli_scraping_project_the_challenges
 ---
 
